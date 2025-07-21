@@ -13,7 +13,7 @@ To run the app locally:
 3. Run `python manage.py runserver`.
 4. Open a browser and go to `http://127.0.0.1:8000/` to see the homepage.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/rUOUDK343uI)
 
 # Web Pages
 
